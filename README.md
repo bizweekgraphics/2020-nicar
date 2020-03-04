@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Bloomberg GFX @ NICAR 2020
 
-You can use the [editor on GitHub](https://github.com/bizweekgraphics/2020-nicar/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Bloomberg Graphics team is taking NICAR 2020 BY STORM and we would love if you came to talk to us!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+We have JOBS
 
-### Markdown
+## Who's who
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Mira Rojanasakul
+#### Queen Teen
 
-```markdown
-Syntax highlighted code block
+### Allison McCartney
+#### She has short hair
 
-# Header 1
-## Header 2
-### Header 3
+### Jeremy C.F. Lin
+#### Map-maker and graphics prince
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bizweekgraphics/2020-nicar/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### David Ingold
+#### Mr. Data Things
